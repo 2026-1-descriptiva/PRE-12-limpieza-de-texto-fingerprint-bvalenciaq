@@ -11,7 +11,7 @@
 import nltk  # type: ignore
 import pandas as pd  # type: ignore
 
-
+#fdsafd
 def load_data(input_file):
     """Lea el archivo usando pandas y devuelva un DataFrame"""
 
